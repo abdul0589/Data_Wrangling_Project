@@ -1,0 +1,7 @@
+
+Link of the File used for data wrangling:
+
+https://mapzen.com/data/metro-extracts/metro/dallas_texas/
+
+
+The reason of choice for selecting the file was that i lived in dallas for 2 years and have a  certain affinity for that place.
